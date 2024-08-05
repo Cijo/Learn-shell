@@ -17,3 +17,4 @@ mysql -h localhost -uroot -pExpenseApp@1 < /app/schema/backend.sql
 systemctl daemon-reload
 systemctl enable backend
 systemctl start backend
+echo " Backend Done"
