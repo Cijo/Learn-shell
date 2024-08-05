@@ -1,0 +1,5 @@
+Basic Git Commands ( Which we are going to do continuously )
+1) git clone             ( to download the entire repository )
+2) git pull              ( to download just the changes that your don't have ) 
+3) git commit -m "msg"   ( before you push anything, make sure you tell what you're doing in the comming msg ) 
+4) git push              ( Publishes the changed to your repo )
